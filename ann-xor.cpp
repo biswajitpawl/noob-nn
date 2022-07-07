@@ -63,7 +63,6 @@ struct Connection {
 class Neuron;
 typedef vector<Neuron> Layer;
 
-
 /*---------------------- Neuron class--------------------------*/
 
 class Neuron
